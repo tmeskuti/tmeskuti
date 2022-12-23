@@ -1,1 +1,1 @@
-[![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmeskuti)](https://github.com/anuraghazra/github-readme-stats)
+![Teo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmeskuti&show_icons=true&theme=transparent)
